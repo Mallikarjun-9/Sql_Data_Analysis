@@ -96,12 +96,12 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 6. Monthly Order Trends
-![Monthly Order Trends](screenshots/06_monthly_orders.png)
+![Monthly Order Trends]()
 
 ---
 
 ### 7. Top Selling Product Categories
-![Top Product Categories](screenshots/07_top_categories.png)
+![Top Product Categories](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/46636baeb76621b887cf20f09e8830f2f19e3187/Screenshot%202025-04-25%20162707.png)
 
 ---
 
