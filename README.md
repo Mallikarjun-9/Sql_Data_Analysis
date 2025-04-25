@@ -75,3 +75,45 @@ It contains 100k+ rows across multiple tables, including:
 
 ---
 
+### 2. Average Delivery Time
+![Average Delivery Time]()
+
+---
+
+### 3. Top 5 States by Number of Orders
+![Top States by Orders](screenshots/03_top_states.png)
+
+---
+
+### 4. Most Used Payment Types
+![Most Used Payment Types](screenshots/04_payment_types.png)
+
+---
+
+### 5. Top Rated Products (Avg Review Score)
+![Top Rated Products](screenshots/05_top_rated_products.png)
+
+---
+
+### 6. Monthly Order Trends
+![Monthly Order Trends](screenshots/06_monthly_orders.png)
+
+---
+
+### 7. Top Selling Product Categories
+![Top Product Categories](screenshots/07_top_categories.png)
+
+---
+
+### 8. Most Active Sellers
+![Most Active Sellers](screenshots/08_top_sellers.png)
+
+---
+
+### 9. Revenue Summary (Optional)
+![Revenue Summary](screenshots/09_revenue_summary.png)
+
+---
+
+### 10. Customers with Most Reviews (Optional)
+![Top Reviewers](screenshots/10_top_reviewers.png)
