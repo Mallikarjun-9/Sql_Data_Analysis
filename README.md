@@ -81,7 +81,7 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 3. Top 5 States by Number of Orders
-![Top States by Orders](screenshots/03_top_states.png)
+![Top States by Orders](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/b43a13bc2659e46f98b5d27aa649570a0fe98eb5/Screenshot%202025-04-25%20162308.png)
 
 ---
 
