@@ -110,8 +110,8 @@ It contains 100k+ rows across multiple tables, including:
 
 ---
 
-### 9. Revenue Summary (Optional)
-![Revenue Summary](screenshots/09_revenue_summary.png)
+### 9. Revenue Summary
+![Revenue Summary](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/d7306b90444049f5ece39ccc4a4321cb56f8b51f/Screenshot%202025-04-25%20165427.png)
 
 ---
 
