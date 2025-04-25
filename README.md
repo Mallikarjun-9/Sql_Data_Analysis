@@ -96,7 +96,7 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 6. Monthly Order Trends
-![Monthly Order Trends]()
+![Monthly Order Trends](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/46636baeb76621b887cf20f09e8830f2f19e3187/Screenshot%202025-04-25%20162707.png)
 
 ---
 
@@ -106,7 +106,7 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 8. Most Active Sellers
-![Most Active Sellers](screenshots/08_top_sellers.png)
+![Most Active Sellers]()
 
 ---
 
