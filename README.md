@@ -76,7 +76,7 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 2. Average Delivery Time
-![Average Delivery Time]()
+![Average Delivery Time](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/77d17cf824eb43d06633804ea56ac5a05349cc9e/Screenshot%202025-04-25%20162216.png)
 
 ---
 
