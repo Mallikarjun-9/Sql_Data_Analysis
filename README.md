@@ -91,7 +91,7 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 5. Top Rated Products (Avg Review Score)
-![Top Rated Products](screenshots/05_top_rated_products.png)
+![Top Rated Products](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/ccd9a47930652426b821088c2fa410464ddd3e3a/Screenshot%202025-04-25%20162613.png)
 
 ---
 
