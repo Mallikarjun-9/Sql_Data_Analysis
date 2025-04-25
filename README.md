@@ -71,7 +71,7 @@ It contains 100k+ rows across multiple tables, including:
 ## 📸 Screenshots of SQL Queries & Results
 
 ### 1. Total Orders Delivered
-![Total Orders Delivered]("C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 162057.png")
+![image_alt](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/62081c4500c5a96b488a4e0f0b2bb6c2cc5a4f20/Screenshot%202025-04-25%20162129.png)
 
 ---
 
