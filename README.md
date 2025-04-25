@@ -86,7 +86,7 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 4. Most Used Payment Types
-![Most Used Payment Types](screenshots/04_payment_types.png)
+![Most Used Payment Types](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/0586b3f2a750287461040827a70bf9647accb4f8/Screenshot%202025-04-25%20162338.png)
 
 ---
 
