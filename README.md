@@ -106,7 +106,7 @@ It contains 100k+ rows across multiple tables, including:
 ---
 
 ### 8. Most Active Sellers
-![Most Active Sellers]()
+![Most Active Sellers](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/5933b2a39d2dda816dd9461b0ea8303f6379139c/Screenshot%202025-04-25%20162810.png)
 
 ---
 
