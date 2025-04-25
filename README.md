@@ -1,5 +1,3 @@
-# Sql_Data_Analysis
- SQL-powered analysis of the Brazilian E-Commerce (Olist) dataset using PostgreSQL to uncover customer, product, and sales insights.
 # 🛒 Brazilian E-Commerce (Olist) - SQL Data Analysis
 
 ## 📌 Project Overview
@@ -115,5 +113,5 @@ It contains 100k+ rows across multiple tables, including:
 
 ---
 
-### 10. Customers with Most Reviews (Optional)
-![Top Reviewers](screenshots/10_top_reviewers.png)
+### 10. Customers with Most Reviews
+![Top Reviewers](https://github.com/Mallikarjun-9/Sql_Data_Analysis/blob/95c00ebd38c7e6caa92d9779c30ad0d288e7846f/Screenshot%202025-04-25%20165501.png)
